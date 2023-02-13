@@ -1,5 +1,5 @@
 ## NOTE: Clone and run locally.
-## Optionally, <a href="https://nbviewer.org/github/tommaho/Jupyter-Python-Example-Library/blob/main/Jupyter%20-%20Python%20Example%20Library.ipynb#top">open at nbviewer.org for link interactivity</a>:
+### Optionally, <a href="https://nbviewer.org/github/tommaho/Jupyter-Python-Example-Library/blob/main/Jupyter%20-%20Python%20Example%20Library.ipynb#top" target="_blank">open at nbviewer.org for useful link interactivity</a>:
 
 Full URL:
 https://nbviewer.org/github/tommaho/Jupyter-Python-Example-Library/blob/main/Jupyter%20-%20Python%20Example%20Library.ipynb#top
